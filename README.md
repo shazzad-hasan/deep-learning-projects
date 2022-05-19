@@ -7,7 +7,7 @@
 - Image Segmentation
 - Object Detection
   - [vegetable dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/object_localization_vegetable_data.ipynb)
-  - Penn-Fudan Database for Pedestrian Detection and Segmentation
+  - [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)
 
 
 
