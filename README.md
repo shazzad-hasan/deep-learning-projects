@@ -1,7 +1,3 @@
-### PyTorch 101
-
-- [Linear Regression](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/pytorch_101/linear_regression.ipynb)
-
 ### Computer Vision
 
 - Image Classification
