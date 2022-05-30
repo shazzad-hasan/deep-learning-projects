@@ -11,9 +11,9 @@
 
 ### NLP
 
-#### 	Text
+#### 	- Text
 
-#### 	Audio
+#### 	- Audio
 
 ### GAN
 
