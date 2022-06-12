@@ -3,7 +3,7 @@
 - Image Classification
   - [MNIST Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/mlp_mnist.ipynb)
   - [CIFAR-10 Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cifar10.ipynb)
-  - Cats vs Dogs Dataset
+  - [Cats vs Dogs Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cat_vs_dog.ipynb)
   - [Hymenoptera Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/ants_vs_bees.ipynb)
 - Image Segmentation
 - Object Detection
