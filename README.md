@@ -10,11 +10,15 @@
   - [Vegetable Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/object_localization_vegetable_data.ipynb)
   - [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)
 
+### Generative 
+
+- GAN
+  - [MNIST Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)
+- VAE
+
 ### NLP
 
 #### 	- Text
 
 #### 	- Audio
-
-### GAN
 
