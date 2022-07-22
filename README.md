@@ -14,6 +14,7 @@
 - VAE
 - GAN
   - [MNIST Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)
+  - [CelebFaces (CelebA) Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)
 
 ### NLP
 
