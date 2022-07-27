@@ -11,11 +11,11 @@
   - [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)
 
 ### Generative 
+
 - Autoencoder
   - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/linear_autoencoder_mnist.ipynb), Denoising]
 - VAE
   - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/variational_autoencoder/vae_mnist.ipynb), [Convolutional](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/variational_autoencoder/conv_vae_mnist.ipynb)]
-
 - GAN
   - [MNIST Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)
   - [CelebFaces (CelebA) Dataset](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/dcgan_celebrity_faces.ipynb)
