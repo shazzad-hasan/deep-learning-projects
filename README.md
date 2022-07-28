@@ -13,7 +13,7 @@
 ### Generative 
 
 - Autoencoder
-  - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/linear_autoencoder_mnist.ipynb), Denoising]
+  - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/linear_autoencoder_mnist.ipynb), [Denoising](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/denoising_autoencoder_mnist.ipynb)]
 - VAE
   - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/variational_autoencoder/vae_mnist.ipynb), [Convolutional](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/variational_autoencoder/conv_vae_mnist.ipynb)]
 - GAN
