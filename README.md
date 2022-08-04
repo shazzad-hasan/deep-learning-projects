@@ -19,6 +19,7 @@
 - GAN
   - MNIST Dataset [[GAN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)]
   - CelebFaces (CelebA) Dataset [[DCGAN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/dcgan_celebrity_faces.ipynb)]
+  - Animal Faces-HQ (AFHQ) Dataset
 
 ### NLP
 
