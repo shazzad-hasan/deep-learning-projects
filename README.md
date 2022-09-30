@@ -23,7 +23,12 @@
 
 ### NLP
 
-#### 	- Text
+- #### 	 Text
 
-#### 	- Audio
+  - Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
+
+
+
+- #### 	 Audio
+
 
