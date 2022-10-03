@@ -23,11 +23,8 @@
 
 ### NLP
 
-- #### 	 Text Classification
-
+- #### Text Classification
   - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/spam_vs_ham.ipynb)]
-  
   - Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
-
-- #### 	 Sequence-to-sequence
+- #### Sequence-to-sequence
 
