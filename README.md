@@ -7,8 +7,8 @@
   - Hymenoptera Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/ants_vs_bees.ipynb)]
 - Image Segmentation
 - Object Detection
-  - Vegetable Dataset [[Object Localization](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/object_localization_vegetable_data.ipynb)]
-  - Penn-Fudan Database [[Finetune Mask R-CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)]
+  - Vegetable Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/object_localization_vegetable_data.ipynb)]
+  - Penn-Fudan Database [[Fine-tuning Mask R-CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)]
 
 ### Generative 
 
