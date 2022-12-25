@@ -33,5 +33,4 @@
   - Anna Karenina Book Dataset [[Character-level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/seq_to_seq/char_level_lstm.ipynb)]
 - Translation
 - Summarization
-- Seq
 
