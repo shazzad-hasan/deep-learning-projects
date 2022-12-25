@@ -24,12 +24,19 @@
 
 ### NLP
 
-- Text Classification
-  - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/spam_vs_ham.ipynb)]
-- Content Filtering
-- Sentiment Analysis
-  - Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
-- Language Modeling
-  - Anna Karenina Book Dataset [[Character-level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/seq_to_seq/char_level_lstm.ipynb)]
+Text Classification
+
+- SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/spam_vs_ham.ipynb)]
+
+Content Filtering
+
+Sentiment Analysis
+
+- Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
+
+Language Modeling
+
+- Anna Karenina Book Dataset [[Character-level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/seq_to_seq/char_level_lstm.ipynb)]
 - Translation
+- Summarization
 
