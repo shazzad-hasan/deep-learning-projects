@@ -19,18 +19,18 @@
 - GAN
   - MNIST Dataset [[GAN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/gan_mnist.ipynb)]
   - CelebFaces (CelebA) Dataset [[DCGAN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/dcgan_celebrity_faces.ipynb)]
-  - Animal Faces-HQ (AFHQ) Dataset
 - Neural Style Transfer
 
 ### NLP
 
 - Text Classification
   - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/spam_vs_ham.ipynb)]
+  - Names Dataset [[Character-Level RNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/classifying_names_char_rnn.ipynb)]
 - Content Filtering
 - Sentiment Analysis
   - Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
 - Language Modeling
-  - Anna Karenina Book Dataset [[Character-level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/language_modeling/char_level_lstm.ipynb)]
+  - Anna Karenina Book Dataset [[Character-Level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/language_modeling/anna_karenina_char_lstm.ipynb)]
 - Translation
 - Summarization
 
