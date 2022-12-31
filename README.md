@@ -2,13 +2,13 @@
 
 - Image Classification
   - MNIST Dataset [[MLP](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/mlp_mnist.ipynb)]
-  - CIFAR-10 Dataset [[Convolutional](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cifar10.ipynb)]
-  - Cats vs Dogs Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cat_vs_dog.ipynb)]
-  - Hymenoptera Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/ants_vs_bees.ipynb)]
+  - CIFAR-10 Dataset [[Convolutional](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cnn_cifar10.ipynb)]
+  - Cats vs Dogs Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/fixed_feature_extractor_cat_vs_dog.ipynb)]
+  - Hymenoptera Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/fixed_feature_extractor_ant_vs_bee.ipynb)]
 - Image Segmentation
 - Object Detection
-  - Vegetable Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/object_localization_vegetable_data.ipynb)]
-  - Penn-Fudan Database [[Fine-tuning Mask R-CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/pedestrian_detection_and_segmentation.ipynb)]
+  - Vegetable Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/fixed_feature_extractor_vegetable.ipynb)]
+  - Penn-Fudan Database [[Fine-tuning Mask R-CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/fine-tuning_penn_fudan.ipynb)]
 
 ### Generative 
 
@@ -24,13 +24,13 @@
 ### NLP
 
 - Text Classification
-  - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/spam_vs_ham.ipynb)]
-  - Names Dataset [[Character-Level RNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/classifying_names_char_rnn.ipynb)]
+  - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/rnn_lstm_spam_vs_ham.ipynb)]
+  - Name Dataset [[Character-Level RNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/char_rnn_names.ipynb)]
 - Content Filtering
 - Sentiment Analysis
-  - Sentiment140 Dataset [[LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/tweet_sentiment.ipynb)]
+  - Sentiment140 Dataset [[Bidirectional RNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/sentiment_analysis/bidirectional_rnn_tweet_sentiment.ipynb)]
 - Language Modeling
-  - Anna Karenina Book Dataset [[Character-Level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/language_modeling/anna_karenina_char_lstm.ipynb)]
+  - Anna Karenina Book Dataset [[Character-Level LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/language_modeling/char_rnn_anna_karenina.ipynb)]
 - Translation
 - Summarization
 
