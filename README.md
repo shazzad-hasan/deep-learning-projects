@@ -2,7 +2,7 @@
 
 - Image Classification
   - MNIST Dataset [[MLP](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/mlp_mnist.ipynb)]
-  - CIFAR-10 Dataset [[Convolutional](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cnn_cifar10.ipynb)]
+  - CIFAR-10 Dataset [[CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/cnn_cifar10.ipynb)]
   - Cats vs Dogs Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/fixed_feature_extractor_cat_vs_dog.ipynb)]
   - Hymenoptera Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/fixed_feature_extractor_ant_vs_bee.ipynb)]
 - Image Segmentation
