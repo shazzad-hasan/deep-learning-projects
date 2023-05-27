@@ -1,11 +1,11 @@
 #### PyTorch-101
 
-   - PyTorch Tensors
-   - PyTorch Tensors and Numpy Arrays
-   - Cuda Semantics
-   - Autograd
-  - Building a Linear Model Using Autograd
-  - Static vs Dynamic Computation Graphs
+   - [PyTorch Tensors](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/pytorch_tensors.ipynb)
+   - [PyTorch Tensors and Numpy Arrays](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/conversion_between_pytorch_and_numpy.ipynb)
+   - [Cuda Semantics](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/cuda_semantics.ipynb)
+   - [Autograd](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/autograd_intro.ipynb)
+  - [Building a Linear Model Using Autograd](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/linear_model_using_autograd.ipynb)
+  - [Static vs Dynamic Computation Graphs](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/computation_graphs.ipynb)
 
 #### Computer Vision
 
