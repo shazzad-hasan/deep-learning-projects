@@ -1,4 +1,4 @@
-#### PyTorch-101
+#### PyTorch-101: Foundation of PyTorch
 
    - [PyTorch Tensors](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/pytorch_tensors.ipynb)
    - [PyTorch Tensors and Numpy Arrays](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/foundation_of_pytorch/conversion_between_pytorch_and_numpy.ipynb)
