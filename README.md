@@ -1,4 +1,13 @@
-### Computer Vision
+#### PyTorch-101
+
+   - PyTorch Tensors
+   - PyTorch Tensors and Numpy Arrays
+   - Cuda Semantics
+   - Autograd
+  - Building a Linear Model Using Autograd
+  - Static vs Dynamic Computation Graphs
+
+#### Computer Vision
 
 - Image Classification
   - MNIST Dataset [[MLP](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/image_classification/mlp_mnist.ipynb)]
@@ -10,7 +19,7 @@
   - Vegetable Dataset [[Fixed feature extractor](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/fixed_feature_extractor_vegetable.ipynb)]
   - Penn-Fudan Database [[Fine-tuning Mask R-CNN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/object_detection/fine-tuning_penn_fudan.ipynb)]
 
-### Generative 
+#### Generative 
 
 - Autoencoder
   - MNIST Dataset [[Linear](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/linear_autoencoder_mnist.ipynb), [Denoising](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/autoencoder/denoising_autoencoder_mnist.ipynb)]
@@ -21,7 +30,7 @@
   - CelebFaces (CelebA) Dataset [[DCGAN](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/gan/dcgan_celebrity_faces.ipynb)]
 - Neural Style Transfer
 
-### NLP
+#### NLP
 
 - Text Classification
   - SMS Spam Collection Dataset [[RNN & LSTM](https://github.com/shazzad-hasan/practice-deep-learning-with-pytorch/blob/main/text_classification/rnn_lstm_spam_vs_ham.ipynb)]
